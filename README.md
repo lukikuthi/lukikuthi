@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo(a)! Me chamo Lucas</h1>
+<h1 align="center">Lucas Kikuthi</h1>
 <h3 align="center">Desenvolvedor | Brasil-SP</h3>
 
 <p align="center">
