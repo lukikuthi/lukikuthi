@@ -1,8 +1,22 @@
-<h1 align="center">Olá, Me chamo Lucas</h1>
-<h3 align="center">Desenvolvedor Full Stack | Brasil-SP</h3>
+<h1 align="center">👋 Hi, I'm Lucas </h1>
+<h3 align="center">Full Stack Developer | React & TypeScript Engineer | São Paulo, Brazil</h3>
 
-<p align="center">
-  <a href="https://github.com/LucasKikuthi">
+---
+
+## 📝 Summary  
+- Software Engineering student and Full Stack Developer based in São Paulo, Brazil.  
+- Currently working at [Host.ee Startup](https://hoststartup.com.br).  
+- Specialized in building scalable applications using **React, TypeScript and Node.js**.  
+- Always improving my skills in software architecture, backend development and modern frontend frameworks.  
+- Passionate about creating efficient solutions and delivering great user experiences. 
+---
+
+### Connect with me
+<p align="left">
+  <a href="https://instagram.com/ylucassx" target="blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+   <a href="https://github.com/LucasKikuthi">
     <img src="https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/lucaskikuthi">
@@ -12,23 +26,7 @@
 
 ---
 
-### Sobre mim
-- 🌱 **Atualmente trabalhando em:** [Host.ee Startup](https://hosteestartup.com.br/)
-- 👨‍💻 **Estudando:** **JavaScript** e **Vue3**
-- 📧 **Contato:** [lucaskikuthi@gmail.com](mailto:lucaskikuthi@gmail.com)
-
----
-
-### Conecte-se comigo
-<p align="left">
-  <a href="https://instagram.com/ylucassx" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
-
----
-
-### Tecnologias e Ferramentas
+### Technologies and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
