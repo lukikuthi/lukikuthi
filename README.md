@@ -52,4 +52,6 @@
 
 ###
 ---
+![Spotify musicas recentes](https://spotify-recently-played-readme.vercel.app/api?user=31df4f7cpxjy6n5jb46vi5z4n3bu)
+---
 
