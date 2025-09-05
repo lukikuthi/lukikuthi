@@ -3,6 +3,7 @@
 
 ---
 
+
 ## 📝 Summary  
 - Software Engineering student and Full Stack Developer based in São Paulo, Brazil.  
 - Currently working at [Host.ee Startup](https://hoststartup.com.br).  
@@ -42,8 +43,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lukikuthi/lukikuthi/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 ---
+### What I'm listening to
 <p align="left">
   <a href="https://open.spotify.com/user/31df4f7cpxjy6n5jb46vi5z4n3bu" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31df4f7cpxjy6n5jb46vi5z4n3bu&count=5" alt="Spotify musicas recentes"/>
