@@ -52,7 +52,7 @@
 
 ###
 ---
-<p align="center">
+<p align="left">
   <a href="https://open.spotify.com/user/31df4f7cpxjy6n5jb46vi5z4n3bu" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31df4f7cpxjy6n5jb46vi5z4n3bu&count=5" alt="Spotify musicas recentes"/>
   </a>
