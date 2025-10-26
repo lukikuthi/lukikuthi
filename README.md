@@ -4,7 +4,7 @@
 ---
 
 
-## 📝 Summary  
+## Summary  
 - Software Engineering student and Full Stack Developer based in São Paulo, Brazil.  
 - Currently working at [Host.ee Startup](https://hoststartup.com.br).  
 - Specialized in building scalable applications using **React, TypeScript and Node.js**.  
