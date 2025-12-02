@@ -1,4 +1,5 @@
-<h1 align="center"> Hi, I'm Lucas </h1>
+<img width="1584" height="396" alt="Cabeçalho (26)" src="https://github.com/user-attachments/assets/3ab0c277-65ba-4423-bded-d346276eff92" />
+
 <h3 align="center">Full Stack Developer | React • TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
 
 ---
@@ -47,5 +48,5 @@
 
 ---
 
-<img width="1584" height="396" alt="Cabeçalho (26)" src="https://github.com/user-attachments/assets/3ab0c277-65ba-4423-bded-d346276eff92" />
+<img width="1584" height="396" alt="Github Banner" src="https://github.com/user-attachments/assets/7b5e4642-923d-4cd1-9590-c2e5302948f8" />
 
