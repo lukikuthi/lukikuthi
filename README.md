@@ -1,11 +1,11 @@
 <h1 align="center"> Hi, I'm Lucas </h1>
-<h3 align="center">Full Stack Developer | React & TypeScript Engineer | São Paulo, Brazil</h3>
+<h3 align="center">Full Stack Developer | React • TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
 
 ---
 
 
 ## Summary  
-- Software Engineering student and Full Stack Developer based in São Paulo, Brazil.  
+- Full Stack Developer based in São Paulo, Brazil.  
 - Currently working at [Host.ee Startup](https://www.hosteestartup.com.br).  
 - Specialized in building scalable applications using **React, TypeScript and Node.js**.  
 - Always improving my skills in software architecture, backend development and modern frontend frameworks.  
@@ -14,9 +14,9 @@
 
 ### Connect with me
 <p align="left">
-  <a href="https://instagram.com/ylucassx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/@ylucassx" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
-  <a href="https://www.linkedin.com/in/lucaskikuthi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/lukikuthi.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/@lukikuthi" target="_blank"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a> 
+  <a href="https://www.linkedin.com/in/lucas-kikuthi-866358246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -46,3 +46,6 @@
 </picture>
 
 ---
+
+<img width="1584" height="396" alt="Cabeçalho (26)" src="https://github.com/user-attachments/assets/3ab0c277-65ba-4423-bded-d346276eff92" />
+
