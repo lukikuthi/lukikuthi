@@ -1,6 +1,7 @@
 
 
-<img width="1584" height="396" alt="Banner Linkedin (3)" src="https://github.com/user-attachments/assets/8eab6ac1-8e2b-4b7f-97ba-1ffeeffbce84" />
+<img width="1584" height="396" alt="Banner Linkedin (4)" src="https://github.com/user-attachments/assets/dda631a8-3411-4368-b392-8e56c376d5ed" />
+
 
 
 <h3 align="center">Full Stack Developer | React • TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
