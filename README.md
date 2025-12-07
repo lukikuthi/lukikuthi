@@ -1,6 +1,7 @@
 
 
-<img width="1584" height="396" alt="Cabeçalho (26)" src="https://github.com/user-attachments/assets/3ab0c277-65ba-4423-bded-d346276eff92" />
+<img width="1584" height="396" alt="Banner Linkedin (3)" src="https://github.com/user-attachments/assets/8eab6ac1-8e2b-4b7f-97ba-1ffeeffbce84" />
+
 
 <h3 align="center">Full Stack Developer | React • TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
 
