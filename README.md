@@ -1,9 +1,3 @@
-
-
-<img width="1584" height="396" alt="Banner Linkedin (4)" src="https://github.com/user-attachments/assets/dda631a8-3411-4368-b392-8e56c376d5ed" />
-
-
-
 <h3 align="center">Full Stack Developer | React • TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
 
 
@@ -39,10 +33,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
-
----
-
-<img width="1584" height="396" alt="Github Banner" src="https://github.com/user-attachments/assets/7b5e4642-923d-4cd1-9590-c2e5302948f8" />
 
 ---
 <picture>
