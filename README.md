@@ -1,4 +1,4 @@
-<h3 align="center">Full Stack Developer | React • TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
+<h3 align="center">Full Stack Developer | TypeScript • JavaScript Engineer | São Paulo, Brazil</h3>
 
 
 
