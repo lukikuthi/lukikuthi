@@ -4,7 +4,7 @@
 
 ## Summary  
 - Full Stack Developer based in São Paulo, Brazil.  
-- Currently working at [Host.ee Startup](https://www.hosteestartup.com.br).  
+- I currently work as a freelancer.  
 - Specialized in building scalable applications using **React, TypeScript and Node.js**.  
 - Always improving my skills in software architecture, backend development and modern frontend frameworks.  
 - Passionate about creating efficient solutions and delivering great user experiences. 
